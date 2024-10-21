@@ -1,6 +1,6 @@
 import data
 import unittest
-
+import math
 
 class TestCases(unittest.TestCase):
     def test_Point_1(self):
